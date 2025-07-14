@@ -51,22 +51,7 @@ Console I/O
 
 ---
 
-🚀 How to Run
 
-1️⃣ Clone the repository:
-
-git clone https://github.com/yourusername/phonebook-cpp.git
-
-2️⃣ Compile the code:
-
-g++ phonebook.cpp -o phonebook
-
-3️⃣ Run the program:
-
-./phonebook
-
-
----
 
 📱 Sample Contacts Included
 
